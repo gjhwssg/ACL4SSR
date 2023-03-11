@@ -3,10 +3,8 @@
 #PROCESS-NAME,org.telegram.messenger
 
 #PT
-DOMAIN-SUFFIX,kamept.com
-DOMAIN-SUFFIX,pttime.org
+
 #
-DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,mikanani.me
