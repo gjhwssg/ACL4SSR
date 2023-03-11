@@ -1,0 +1,8 @@
+# Telegram
+#PROCESS-NAME,Telegram.exe
+#PROCESS-NAME,org.telegram.messenger
+DOMAIN-SUFFIX,misakaf.org
+
+#PT
+DOMAIN-SUFFIX,kamept.com
+DOMAIN-SUFFIX,pttime.org
