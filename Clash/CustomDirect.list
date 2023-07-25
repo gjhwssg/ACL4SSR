@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,eset.com
 
 #parsec.app
 DOMAIN-SUFFIX,parsec.app
+
+#web
+DOMAIN-SUFFIX,masuit.com
